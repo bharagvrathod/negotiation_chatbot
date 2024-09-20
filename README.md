@@ -3,6 +3,9 @@
 ## Overview
 This repository contains an AI-powered negotiation chatbot implemented using Hugging Face's `DialoGPT` model. The chatbot simulates a price negotiation process, allowing users to accept, reject, or propose counteroffers. The project features two models: a basic negotiation model and an advanced model that incorporates sentiment analysis to enhance user interactions.
 
+### Link to demo 
+https://ooo.mmhmm.app/watch/z_GfZy4FZIcsCiLrzfhAWu
+
 ---
 
 ## Features
